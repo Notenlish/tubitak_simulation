@@ -26,7 +26,7 @@ ROOM_TYPE_COLORS = {"classroom": "blue",
                     "stair": "green",
                     "other": "yellow"}
 
-EVACUATE_TIME = 3  # 0.001, 6
+EVACUATE_TIME = 6  # 0.001, 6
 NEW_EVACUATE_TIME = 0.001
 STUDENT_SPEED = 0.15
 
